@@ -846,7 +846,7 @@ a {
 }
 
 a:hover:not(.block):not(.not-prose) {
-  color: #f9a8d4;
+  color: #a8f1f9;
 }
 
 p a,
@@ -1033,12 +1033,12 @@ nav a {
 }
 
 nav a:hover {
-  color: #f9a8d4;
+  color: #a8f1f9;
 }
 
 .hover\:border-pink-300:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(249 168 212 / var(--tw-border-opacity, 1));
+  border-color: rgb(168 241 249 / var(--tw-border-opacity, 1));
 }
 
 .hover\:border-white:hover {
@@ -1059,7 +1059,7 @@ nav a:hover {
 
 .focus\:ring-pink-300:focus {
   --tw-ring-opacity: 1;
-  --tw-ring-color: rgb(249 168 212 / var(--tw-ring-opacity, 1));
+  --tw-ring-color: rgb(168 241 249 / var(--tw-ring-opacity, 1));
 }
 
 @media (min-width: 1024px) {
