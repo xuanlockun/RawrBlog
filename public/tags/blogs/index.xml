@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open-Source on My New Hugo Project</title>
-    <link>http://localhost:1313/tags/open-source/</link>
-    <description>Recent content in Open-Source on My New Hugo Project</description>
+    <title>Blogs on My New Hugo Project</title>
+    <link>http://localhost:1313/tags/blogs/</link>
+    <description>Recent content in Blogs on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Nov 2025 09:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>V1t CTF 2025</title>
       <link>http://localhost:1313/blogs/v1t-ctf-2025/</link>
       <pubDate>Sun, 02 Nov 2025 09:00:00 -0700</pubDate>
       <guid>http://localhost:1313/blogs/v1t-ctf-2025/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;idea&#34;&gt;Idea&lt;/h2&gt;&#xA;&lt;p&gt;Honestly, there wasn’t any fancy or romantic reason behind it. It was just a random thought like:&lt;br&gt;&#xA;“Why don’t I create a v1t CTF about ducks?”&lt;br&gt;&#xA;And then my brain went: &lt;em&gt;fuck it, I’m gonna do it anyway.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;Things were actually pretty hard at the beginning because I had never asked for sponsorship before, so I had zero experience. I started by googling “CTF sponsorship” and reached out to Google CTF first — and of course, they rejected us immediately. Their reply email was even kinda sarcastic.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>VishwaCTF 2025 and how we meet FazeCT</title>
-      <link>http://localhost:1313/blogs/vishwactf2025-fazect/</link>
-      <pubDate>Wed, 05 Mar 2025 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/blogs/vishwactf2025-fazect/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/fazeandduck.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I took FazeCT pfp on dream hack ;-;&lt;/p&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;I’m a CTF beginner. I had only been playing CTFs for about 2–3 weeks, and honestly my results weren’t very good. Part of the reason was that I didn’t spend much time on CTFs. So that day, I decided to ask myself: what would happen if I seriously sat down and played one full CTF?&#xA;And that CTF was VishwaCTF 2025.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
