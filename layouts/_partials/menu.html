@@ -1,0 +1,11 @@
+<nav aria-label="Main navigation">
+  <ul class="flex list-none m-0 p-0 gap-4">
+    <li><a class="text-sm" href="{{ "/" | relLangURL }}">{{ T "home" }}</a></li>
+    {{ with site.GetPage "section" "blog" }}
+      <li><a class="text-sm" href="{{ .RelPermalink }}">{{ T "blog" }}</a></li>
+    {{ end }}
+    {{ with site.GetPage "page" "me" }}
+      <li><a class="text-sm" href="{{ .RelPermalink }}">{{ T "me" }}</a></li>
+    {{ end }}
+  </ul>
+</nav>

@@ -1,4 +1,16 @@
 baseURL = 'https://example.org/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 languageCode = 'en-us'
 title = 'Rawr Blog'
-theme = 'digio-theme'
+theme = 'v1t'
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    languageCode = 'en-us'
+    weight = 1
+  [languages.vi]
+    languageName = 'Tiếng Việt'
+    languageCode = 'vi-vn'
+    weight = 2

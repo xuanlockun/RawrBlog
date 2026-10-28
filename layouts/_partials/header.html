@@ -1,0 +1,15 @@
+<header class="py-6 px-6">
+  <div class="flex justify-between items-center gap-6">
+    {{ partial "menu.html" (dict "page" .) }}
+    {{ $target := "/vi/" | absURL }}
+    {{ if eq .Lang "vi" }}
+      {{ $target = "/" | absURL }}
+    {{ end }}
+    {{ with .Translations }}
+      {{ range first 1 . }}{{ $target = .RelPermalink }}{{ end }}
+    {{ end }}
+    <a class="language-switch text-sm whitespace-nowrap" href="{{ $target }}" aria-label="{{ T "language_switch_label" }}">
+      {{ T "language_switch" }}
+    </a>
+  </div>
+</header>

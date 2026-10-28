@@ -1,0 +1,8 @@
+home = "home"
+blog = "blog"
+me = "me"
+language_switch = "Tiếng Việt"
+language_switch_label = "Read this blog in Vietnamese"
+read_more = "Read more →"
+on_this_page = "⋅˚₊‧ ୨ on this page ୧ ‧₊˚ ⋅"
+no_posts = "No posts found."
