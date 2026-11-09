@@ -3,10 +3,10 @@ title = "Rawr!"
 portraitImage = "/portrait.png"
 
 introTitle = "Rawr!"
-introBody = "Xin chào, mình là Rawr, hay còn gọi là Rawrighton."
+introBody = "Rawr rawr rawr"
 
 statusImage = "/status.png"
-statusText = "Nơi để mọi người biết dạo này mình đang làm gì..."
+statusText = "Toi la con ngua"
 
 watchingImage = "/watching.png"
 watchingText = "DJ Dai vuong"

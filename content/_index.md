@@ -5,7 +5,7 @@ introTitle = "Rawr!"
 introBody = "Hi i'm Rawr aka Rawrighton."
 
 statusImage = "/status.png"
-statusText = "A way to let everyone know what you're up to..."
+statusText = "Horse neva stop he keep runnin"
 
 watchingImage = "/watching.png"
 watchingText = "DJ Dai vuong"
