@@ -2,23 +2,23 @@
 title = "me"
 layout = "me"
 likes = [
-  "goose",
-  "yuyu",
-  "femboys",
-  "CTF",
-  "coding",
-  "cats",
+  "you",
+  "you",
+  "you",
+  "you",
+  "you",
+  "you",
+  "you",
+  "you",
+  "you",
+  "femboy",
 ]
 
 dislikes = [
-  "unnecessary meetings",
-  "slow servers",
-  "deadlines",
+  "goose",
 ]
 
 hobbies = [
-  "writing",
-  "building things",
-  "playing CTFs",
+  "listen to dangrangto 's music",
 ]
 +++
